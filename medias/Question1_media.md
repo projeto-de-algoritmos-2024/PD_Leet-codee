@@ -4,7 +4,7 @@
 
 ## Resultados do juiz eletrônico
 
-![](/assets/result_media1.png)
+![](/assets/Result_media1.png)
 
 #### Caso 1:
 
@@ -12,7 +12,3 @@
 #### Caso 2:
 
 ![](/assets/Case2_media1.png)
-#### Caso 3:
-
-![](/assets/Case3_media1.png)
-
