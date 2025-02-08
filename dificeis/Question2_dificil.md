@@ -6,15 +6,15 @@ https://leetcode.com/problems/reducing-dishes/description/
 
 ## Resultados do juiz eletrônico
 
-![](/assets/Result_dificil1.png)
+![](/assets/)
 
 #### Caso 1:
 
-![](/assets/Case1_dificil1.png)
+![](/assets/)
 
 #### Caso 2:
 
-![](/assets/Case2_dificil1.png)
+![](/assets/)
 
 
 
