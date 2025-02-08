@@ -1,4 +1,6 @@
-## 
+## 1402. Reducing Dishes
+
+https://leetcode.com/problems/reducing-dishes/description/?envType=problem-list-v2&envId=50vif4uc
 
 # Nível da questão:  <span style="color: yellow;">Dificil</span>
 
