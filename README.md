@@ -20,19 +20,19 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="/medias/Question1_media.md" target="_blank">96. Unique Binary Search Trees</td>
             <td>Média 1</td>
         <tr>
-            <td><a href="/medias/Question2_media.md" target="_blank"></td>
+            <td><a href="" target="_blank"></td>
             <td>Média 2</td>
         </tr>
         </tr>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="/dificeis/Question1_dificil.md" target="_blank">124. Binary Tree Maximum Path Sum</td>
             <td>Difícil 1</td>
         </tr>
         <tr>
-            <td><a href="d" target="_blank"></td>
+            <td><a href="" target="_blank"></td>
             <td>Difícil 2</td>
         </tr>
     </tbody>
@@ -91,13 +91,13 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank">Média 1</a></td>
+            <td><a href="https://www.youtube.com/watch?v=htCygaifyXQ" target="_blank">Média 1</a></td>
         </tr>
         <tr>
             <td><a href="https://youtu.be/SXKLJt_mIh8" target="_blank">Média 2</a></td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Difícil 1</a></td>
+            <td><a href="https://www.youtube.com/watch?v=4UoIMNye9NA" target="_blank">Difícil 1</a></td>
         </tr>
         <tr>
             <td><a href="https://youtu.be/-wWgzLhX2mA" target="_blank">Difícil 2</a></td>
