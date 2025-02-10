@@ -4,7 +4,7 @@
 
 ### Dupla: 
 
-# Questões Greed
+# Questões Programação Dinamica
 
 <center>
 
@@ -23,7 +23,7 @@
             <td><a href="/medias/Question1_media.md" target="_blank">96. Unique Binary Search Trees</td>
             <td>Média 1</td>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="/medias/Question2_media.md" target="_blank">198. House Robber</td>
             <td>Média 2</td>
         </tr>
         </tr>
@@ -32,7 +32,7 @@
             <td>Difícil 1</td>
         </tr>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="/dificeis/Question2_dificil.md" target="_blank">1402. Reducing Dishes</td>
             <td>Difícil 2</td>
         </tr>
     </tbody>
@@ -94,13 +94,13 @@
             <td><a href="https://www.youtube.com/watch?v=htCygaifyXQ" target="_blank">Média 1</a></td>
         </tr>
         <tr>
-            <td><a href="https://youtu.be/SXKLJt_mIh8" target="_blank">Média 2</a></td>
+            <td><a href="https://youtu.be/VVvd1GjyT-c?si=69wpwf5WfUeEKreC" target="_blank">Média 2</a></td>
         </tr>
         <tr>
             <td><a href="https://www.youtube.com/watch?v=4UoIMNye9NA" target="_blank">Difícil 1</a></td>
         </tr>
         <tr>
-            <td><a href="https://youtu.be/-wWgzLhX2mA" target="_blank">Difícil 2</a></td>
+            <td><a href="https://youtu.be/gXN4wnSP43E?si=LzSjCxGghrd4KQN7" target="_blank">Difícil 2</a></td>
         </tr>
     </tbody>
 </table>
