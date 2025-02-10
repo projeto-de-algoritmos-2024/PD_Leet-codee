@@ -2,7 +2,7 @@
 
 # Repositório destinado a documentação do trabalho de Projeto de algoritmo
 
-### Dupla: 
+### Dupla: 24
 
 # Questões Programação Dinamica
 
